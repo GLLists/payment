@@ -165,8 +165,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header5",
               "linkInNewWindow": false,
-              "name": "device-airplanemode-on",
-              "family": "Material-Design-Icons",
+              "name": "airplane",
+              "family": "icon54-v4",
               "active": true,
               "link": "",
               "size": 0,
