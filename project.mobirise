@@ -31,7 +31,7 @@
     "noImageResize": "",
     "siteUrl": "undefined",
     "google-analytics": "",
-    "uniqCompNum": 4,
+    "uniqCompNum": 5,
     "versionPublish": "4.10.1"
   },
   "pages": {
@@ -57,6 +57,9 @@
             },
             ".mbr-section-title, .tab-pane": {
               "color": "#000"
+            },
+            ".header-text": {
+              "color": "#198e98"
             }
           },
           "_params": {
@@ -80,33 +83,42 @@
           },
           "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
           "title": "PAYMENT OPTIONS",
-          "text": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit asperiores itaque vero facere laudantium voluptas temporibus mollitia, nisi deleniti illo minima quisquam corporis possimus nesciunt.",
-          "title1": "BOOST YOUR RANKING",
-          "title2": "BOOTSTRAP BUILDER",
-          "title3": "TRENDY WEBSITE BLOCKS",
+          "text": "<b>Thanks for your order. I look forward to working together.</b><br>",
+          "title1": "BANK WIRE",
+          "title2": "OVERNIGHT",
+          "title3": "BEST PRO LEADS",
           "title4": "HOST ANYWHERE",
           "title5": "IMAGE/CONTENT SLIDER",
           "title6": "CONTACT FORMS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-0\" aria-expanded=\"false\">Responsive</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-0\" aria-expanded=\"true\">Creative</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-0\" aria-expanded=\"false\">Animated</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-0\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-0\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-0\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-0\" aria-expanded=\"false\">BANK WIRE</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-0\" aria-expanded=\"false\">OVERNIGHT</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-0\" aria-expanded=\"true\">BEST PRO LEADS</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-0\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-0\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-0\">Beautiful</a></li>",
           "media11": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb1.png",
+              "src": "@PROJECT_PATH@/assets/images/payment-bankwire-1000x1081.png",
               "class": "card-img-top",
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media12": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb2.png",
+              "src": "@PROJECT_PATH@/assets/images/payment4-1000x1081.png",
               "class": "card-img-top",
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media13": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb3.png",
+              "src": "@PROJECT_PATH@/assets/images/payment5-1000x1081.png",
               "class": "card-img-top",
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media14": {
@@ -132,35 +144,38 @@
           },
           "media21": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
               "name": "linegraph",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "",
               "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
+              "color": "@primaryColor"
             }
           },
           "media22": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "attachment",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "maps-flight",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "link": "",
               "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
+              "color": "@primaryColor"
             }
           },
           "media23": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "paperclip",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "smile-face",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
               "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
+              "color": "@primaryColor"
             }
           },
           "media24": {
@@ -196,9 +211,9 @@
               "family": "et-line"
             }
           },
-          "text1": "Sites made with Mobirise are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut cupiditate est, illum quo. Unde in fugit commodi labore earum harum, minus itaque maxime asperiores voluptatibus, iusto quae, ab dignissimos sequi.",
-          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique maxime, placeat. Dignissimos incidunt, consequuntur molestiae! Exercitationem tempora qui, non sit quia, voluptate sequi repudiandae accusamus voluptatem expedita ducimus vero incidunt.",
-          "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nam officia. Repellendus quae modi eaque sed, aliquam molestias, amet neque blanditiis illo ratione eos! Unde minima porro, consequatur eveniet dolore!",
+          "text1": "A bank wire is my prefered method of receiving payment. When you wire payment, you will receive a free list as my way of saying thanks for wiring payment!<br><br>Name:  Joe Bonavitacola\n<br>Account #: 8907407384\n<br>Bank Routing #: 031000503<br>",
+          "text2": "If you prefer to use one of the overnight express services such as FedEx, UPS, DHL, or USPS Express Mail … I accept cash, cashier’s check, or money order.\n<br>\n<br>Make it payable to:\n<br>\n<br>Joe Bonavitacola\n<br>7715 Crittenden #161\n<br>Philadelphia, PA 19118",
+          "text3": "Grow your business exponentially using the missing piece of your marketing puzzle that top producers have been using for years to enjoy superstar success.",
           "text4": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
           "text5": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
           "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
@@ -222,16 +237,16 @@
             }
           },
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "showTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#e74c3c",
+            "bgColor": "#198e98",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
@@ -241,7 +256,7 @@
             "overlayOpacity": 0.9
           },
           "title": "BEAUTIFUL MOBILE WEBSITES",
-          "text": "Develop fully responsive, mobile-ready websites",
+          "text": "Thanks for your order. I look forward to working together<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://mobirise.com\">see live demo</a>",
           "alias": "colorm/components",
           "_tags": [
@@ -352,6 +367,9 @@
           "_styles": {
             ".mbr-section-text": {
               "color": "#fff"
+            },
+            "P": {
+              "color": "#ecf0f1"
             }
           },
           "_params": {
@@ -366,7 +384,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 <a href=\"http://mobirise.com\">Mobirise</a>.",
+          "text": "Copyright (c) 2019 <a href=\"http://www.bestproleads.com\">BestproLeads.com</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"

@@ -776,6 +776,9 @@ section.form .container {
 #header9-0 .tab-pane {
   color: #000;
 }
+#header9-0 .header-text {
+  color: #198e98;
+}
 #call3-3 .display-1 {
   font-weight: 700;
   color: #fff;
@@ -855,4 +858,7 @@ section.form .container {
 }
 #footer2-2 .mbr-section-text {
   color: #fff;
+}
+#footer2-2 P {
+  color: #ecf0f1;
 }
