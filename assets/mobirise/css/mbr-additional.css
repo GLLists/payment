@@ -784,6 +784,9 @@ section.form .container {
 #header9-0 .mbr-section-title {
   font-family: 'Open Sans', sans-serif;
 }
+#header9-0 P {
+  color: #333333;
+}
 #call3-3 .display-1 {
   font-weight: 700;
   color: #fff;
